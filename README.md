@@ -54,7 +54,7 @@ This enables linking biographical information to Supreme Court decisions.
 Includes:
 
 - Judges included in the SONGER Courts of Appeals Database
-- SONGER identifying variable
+- Songer identifying variable
 - Federal Judicial Center identifying variable
 
 This allows linking appellate decision data to biographical records.
@@ -82,7 +82,7 @@ This dataset links information derived from publicly available sources, includin
 
 - Federal Judicial Center (FJC) Biographical Directory
 - Supreme Court Database (Washington University)
-- SONGER Courts of Appeals Database
+- Songer Courts of Appeals Database
 - Carp–Manning District Court Database
 - U.S. Senate historical majority records
 No raw source datasets are redistributed in this repository.
@@ -108,7 +108,7 @@ If you use this dataset, please cite the relevant published paper(s).
 # Version Information
 
 - Time Period Covered: 1946–2025
-- Last Updated: March 5, 2026
+- Last Updated: March 14, 2026
 
 Future updates will document corrections and additions.
 
