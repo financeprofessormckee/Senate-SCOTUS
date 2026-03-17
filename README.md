@@ -53,7 +53,7 @@ This enables linking biographical information to Supreme Court decisions.
 
 Includes:
 
-- Judges included in the SONGER Courts of Appeals Database
+- Judges included in the Songer Courts of Appeals Database
 - Songer identifying variable
 - Federal Judicial Center identifying variable
 
@@ -101,7 +101,11 @@ If you discover an error, please contact the repository author.
 
 This linking file has been used in the following research:
 
-With the Advice and Consent of the Senate He Shall Appoint Judges of the Supreme Court: The Importance of the Senate in Measuring Judicial Ideology.
+> McKee, Eric; Macy, Anne; Zhang, Wei.  
+> *With the Advice and Consent of the Senate He Shall Appoint Judges of the Supreme Court: The Importance of the Senate in Measuring Judicial Ideology.*  
+> March 4, 2026. SSRN Working Paper.  
+> [SSRN Abstract](https://ssrn.com/abstract=5155147)  
+> [DOI: 10.2139/ssrn.5155147](https://doi.org/10.2139/ssrn.5155147)
 
 If you use this dataset, please cite the relevant published paper(s).
 
