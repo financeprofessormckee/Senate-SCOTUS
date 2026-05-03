@@ -85,6 +85,7 @@ This dataset links information derived from publicly available sources, includin
 - Songer Courts of Appeals Database
 - Carp–Manning District Court Database
 - U.S. Senate historical majority records
+  
 No raw source datasets are redistributed in this repository.
 
 Users should consult the original sources for applicable licensing terms.
